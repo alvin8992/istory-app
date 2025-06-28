@@ -50,3 +50,4 @@ resource "aws_security_group" "istory_rds_sg" {
     Name = "istory-rds-sg"
   }
 }
+
